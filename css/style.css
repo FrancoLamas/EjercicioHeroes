@@ -1,0 +1,368 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+#barrasuperior{
+  width: 1024px;
+  height: 38px;
+  background: #1cd1b0;
+  padding: 10px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+#barraheader{
+  width: 1024px;
+  height: 101px;
+  background: #00669f;
+  padding-top: 28px;
+  padding-left: 28px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+.cuadro{
+  width: 300px;
+  height: 529px;
+  position: relative;
+  display: inline-block;
+  margin-top: 293px;
+  margin-left: 30px;
+  margin-bottom: 151px;
+}
+#fotos{
+  width: 120px;
+  height: 118;
+  position: absolute;
+  z-index: 1;
+  left: 90px;
+  top: 128px;
+}
+#footer{
+  width: 1024px;
+  height: 51px;
+  background: #00669f;
+  padding-top: 16px;
+  padding-left: 16px;
+  font-size: 16px;
+  color: white;
+}
+#titulos{
+  padding-top: 74px;
+  padding-left: 89px;
+  font-size: 30px;
+}
+#texto{
+  padding-top: 10px;
+  padding-left: 16px;
+  font-size: 16px;
+}
+#vermas{
+  background: #00669f;
+  width: 128.78px;
+  height: 48.52px;
+  margin-top: 37px;
+  margin-left: 85px;
+  padding-top: 15px;
+  padding-left: 37px;
+  color: white;
+}
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+#barrasuperior{
+  width: 100%;
+  height: 1.3vw;
+  background: #1cd1b0;
+  padding: 0.3vw;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.5vw;
+}
+#barraheader{
+  width: 100%;
+  height: 5vw;
+  background: #00669f;
+  color: white;
+  padding-top: 0.2vw;
+  padding-left: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6vw;
+  display: flex;
+  align-items: center;
+}
+#barraheader img{
+  width: 4vw;
+}
+#cuerpo{
+  width: 100%;
+  height: 40vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#login{
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+}
+.titulo{
+  font-size: 2.5vw;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 1.5vw;
+}
+#login form{
+  font-size: 1vw;
+}
+.fill{
+  width:100%;
+  height: 2vw;
+  font-size: 0.8vw;
+}
+.boton{
+  width: 100%;
+  height: 2vw;
+  background-color: #1cd1b0;
+  border: none;
+  border-radius: 20px;
+  margin-bottom: 1vw;
+  font-size: 1vw;
+}
+.crearcuenta{
+  text-align: center;
+  font-size: 1vw;
+}
+#footer{
+  width: 100%;
+  height: 2.6vw;
+  background: #00669f;
+  font-size: 1vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+#barrasuperior{
+  width: 100%;
+  height: 1.3vw;
+  background: #1cd1b0;
+  padding: 0.3vw;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.5vw;
+}
+#barraheader{
+  width: 100%;
+  height: 5vw;
+  background: #00669f;
+  color: white;
+  padding-top: 0.2vw;
+  padding-left: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6vw;
+  display: flex;
+  align-items: center;
+}
+#barraheader img{
+  width: 4vw;
+}
+#cuerpo{
+  width: 100%;
+  height: 40vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#login{
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+}
+.titulo{
+  font-size: 2.5vw;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 1.5vw;
+}
+#login form{
+  font-size: 1vw;
+}
+.fill{
+  width:100%;
+  height: 2vw;
+  font-size: 0.8vw;
+  margin-top: 0.01vw;
+  margin-bottom: 0.01vw;
+}
+.boton{
+  width: 45%;
+  height: 2vw;
+  background-color: #1cd1b0;
+  border: none;
+  border-radius: 20px;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  font-size: 1vw;
+}
+.resetear{
+  width: 45%;
+  height: 2vw;
+  background-color: #888888;
+  border: none;
+  border-radius: 20px;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  font-size: 1vw;
+  color: white;
+}
+.crearcuenta{
+  text-align: center;
+  font-size: 1vw;
+}
+#footer{
+  width: 100%;
+  height: 2.6vw;
+  background: #00669f;
+  font-size: 1vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+#barrasuperior{
+  width: 100%;
+  height: 1.3vw;
+  background: #1cd1b0;
+  padding: 0.3vw;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.5vw;
+}
+#barraheader{
+  width: 100%;
+  height: 5vw;
+  background: #00669f;
+  color: white;
+  padding-top: 0.2vw;
+  padding-left: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6vw;
+  display: flex;
+  align-items: center;
+}
+#barraheader img{
+  width: 4vw;
+}
+#barracontacto{
+  width: 100%;
+  height: 2.5vw;
+  background-color:#001D2D ;
+  font-size: 1vw;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+#barracontacto article{
+  margin-right: 1.8vw;
+}
+#cuerpo{
+  width: 100%;
+  height: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.addsuper{
+  width: 65%;
+  height: 40vw;
+  background-color: #00669F;
+  border-radius: 12px;
+  color: white;
+  font-size: 1vw;
+  padding-top: 1vw;
+}
+.tituloform{
+  text-align: center;
+}
+.tituloform h1{
+  font-size: 2.5vw;
+}
+input , select{
+  height: 2vw;
+  font-size: 1vw;
+  border-radius: 5px;
+  border: none;
+  margin-top: 0.7vw;
+  margin-bottom: 0.7vw;
+}
+.selection{
+  height: 1vw;
+  border-radius: 0px;
+}
+.columnas div{
+  width: 25%;
+}
+#descripcion{
+  height: 18vw;
+  margin-bottom: 2vw;
+}
+button{
+  width: 30%;
+  height: 3vw;
+  border-radius: 12px;
+  align-self: center;
+  background-color:#1cd1b0 ;
+  border: none;
+  
+}
+.formulario{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.columnas{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+#file{
+  font-size: 0.4vw;
+}
+button:focus{
+  background-color:#001D2D ;
+  color: white;
+}
+#footer{
+  width: 100%;
+  height: 2.6vw;
+  background: #00669f;
+  font-size: 1vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+hr{
+  width: 90%;
+  text-align: center;
+  border-color: white;
+
+}
